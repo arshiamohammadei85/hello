@@ -1,0 +1,12 @@
+{
+    "name": "arshiamohammadei85/hello",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Arshiamohammadi",
+            "email": "128997158+arshiamohammadei85@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
